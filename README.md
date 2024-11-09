@@ -14,10 +14,10 @@ you can just do things. reach heaven by violence, one star at a time.
 
 ## what i'm currently working on
 
+- healing from a repetitive strain injury
 - building software for self-guided learning
 - exploring LLM base models
 - telling my life story (and beginning its next chapter)
-- healing from a repetitive strain injury
 
 ## contact me
 
