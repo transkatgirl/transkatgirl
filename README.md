@@ -14,4 +14,10 @@ you can just do things. reach heaven by violence, one star at a time.
 
 ## what i'm currently working on
 
+- building software for self-guided learning
+- exploring creative uses of LLM base models
+- telling my life story through social media
+
 ## contact me
+
+
