@@ -14,10 +14,16 @@ you can just do things. reach heaven by violence, one star at a time.
 
 ## what i'm currently working on
 
-- building software for self-guided learning
-- exploring creative uses of LLM base models
-- telling my life story through social media
+ - building software for self-guided learning
+ - exploring LLM base models
+ - telling my life story
 
 ## contact me
 
-
+ - social media
+	 - [twitter](https://twitter.com/transkatgirl)
+	 - [youtube](https://www.youtube.com/@transkatgirl)
+ - chat platforms
+	 - matrix: `@transkatgirl:matrix.org`
+	 - signal: `transkatgirl.22`
+	 - contact me on twitter for my discord or telegram usernames
