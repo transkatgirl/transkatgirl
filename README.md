@@ -26,4 +26,5 @@ you can just do things. reach heaven by violence, one star at a time.
 - chat platforms
 	- matrix: `@transkatgirl:matrix.org`
 	- signal: `transkatgirl.22`
-	- contact me on twitter for my discord or telegram usernames
+	- telegram (not recommended): contact me for details
+	- discord (not recommended): contact me for details
