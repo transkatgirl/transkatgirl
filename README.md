@@ -16,7 +16,8 @@ you can just do things. reach heaven by violence, one star at a time.
 
 - building software for self-guided learning
 - exploring LLM base models
-- telling my life story
+- telling my life story (and beginning its next chapter)
+- healing from a repetitive strain injury
 
 ## contact me
 
