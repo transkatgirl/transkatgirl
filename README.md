@@ -1,5 +1,3 @@
-# kat (transkatgirl)
-
 ## about me
 
 ### a girl learning to navigate the world.
