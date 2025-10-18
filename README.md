@@ -20,8 +20,9 @@ you can just do things. reach heaven by violence, one star at a time.
 - exploring resilient communication protocols for a changing world
 - telling my life story (and beginning its next chapter)
 
-## contact me
+## external links
 
+- [my blog](https://transkatgirl.github.io)
 - social media
 	- [twitter (@transkatgirl)](https://twitter.com/transkatgirl)
 	- [youtube (@transkatgirl)](https://www.youtube.com/@transkatgirl)
